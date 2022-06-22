@@ -5,7 +5,7 @@ function swap(arr,min,i)
     arr[min]=temp;
   }
 
-arr=[1,2,3,4,5];
+arr=[5,4,3,2,1];
 for(var i=0;i<arr.length;i++)
   {
     var min=i;
